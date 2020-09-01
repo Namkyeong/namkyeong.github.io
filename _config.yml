@@ -25,12 +25,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+remote_theme : chrisbobbe/jekyll-theme-prologue
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Namkyeong
 subtitle: Your awesome subtitle
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
@@ -38,7 +40,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Your Incredible Name
 email: your-email@example.com
 avatar: assets/images/avatar.jpg
-remote_theme : chrisbobbe/jekyll-theme-prologue
+
 
 # You'll want to customize url and baseurl for your own site:
 url: "https://Namkyeong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
