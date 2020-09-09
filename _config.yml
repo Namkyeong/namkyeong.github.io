@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Nangineering" # Meta 태그에 들어가는 영역
+title                    : "Engineering Blog" # Meta 태그에 들어가는 영역
 title_separator          : "&#124;" # 타이틀 사이의 구분자 
 subtitle                 : "version 1.0" # Title 아래에 작은 글씨
-name                     : "Nangineering"
+name                     : "Engineering Blog"
 description              : "an Amazing Website"
 url                      : "https://namkyeong.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
