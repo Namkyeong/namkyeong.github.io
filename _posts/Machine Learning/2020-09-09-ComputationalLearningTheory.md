@@ -7,16 +7,13 @@ comments: true
 share: true
 related: true
 categories:
-- Jekyll
+- Machine Learning
 toc: true
 toc_sticky: true
 toc_label: 목차
 description: Machine Learning
-article_tag1: GitHub(GitBlog) 블로그
-article_tag2: minimal-mistakes
-article_tag3: Jekyll
-article_section: 깃 블로그 따라하기
-meta_keywords: 깃블로그,GitBlog,GitHub블로그,minimal-mistakes,Jekyll
+article_tag1: Machine Learning
+article_section: Machine Learning
 last_modified_at: '2020-01-23 00:00:00 +0800'
 ---
 
