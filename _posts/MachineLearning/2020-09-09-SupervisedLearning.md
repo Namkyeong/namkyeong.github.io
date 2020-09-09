@@ -16,10 +16,10 @@ article_tag1: computational learning theory
 article_tag2: concept learning
 article_tag3: VC Dimension
 article_section: Computational Learning Theory
-meta_keywords: 
+meta_keywords: null
 last_modified_at: '2020-09-09 00:00:00 +0800'
 ---
 
-아래 깃허브 블로그를 참고해서 제작
-
-[GitHub 블로그 시작하기](https://honbabzone.com/jekyll/start-gitHubBlog/)
+#### References  
+고려대학교 육동석 교수님 < COSE362 : 기계학습 >
+Ethem Alpaydin. 2010. <i>Introduction to Machine Learning</i> (2nd. ed.). The MIT Press.
