@@ -23,5 +23,5 @@ last_modified_at: '2020-01-23 00:00:00 +0800'
 
 아래 깃허브 블로그를 참고해서 제작
 
-[GitHub 블로그 시작하기](https://honbabzone.com/jekyll/start-gitHubBlog/)
+[GitHub 블로그 시작하기](https://honbabzone.com/jekyll/start-gitHubBlog/)  
 [Github.io 블로그 폰트 크기 조절하기](https://danggai.github.io/github.io/Github.io-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%B0%ED%8A%B8-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%88%ED%95%98%EA%B8%B0/)
