@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Namkyeong Blog" # Meta 태그에 들어가는 영역
+title                    : "Namkyeong" # Meta 태그에 들어가는 영역
 title_separator          : "&#124;" # 타이틀 사이의 구분자 
 subtitle                 : "version 1.0" # Title 아래에 작은 글씨
 name                     : "Namkyeong Blog"
@@ -95,16 +95,16 @@ analytics:
 author:
   name             : "Namkyeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm Studying Recommender System at KAIST \n building **useful** contents"
+  bio              : "I am currently studying Recommender System at KAIST"
   location         : "Daejeon, Republic of Korea"
   email            : "namkyeong96@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Laboratory"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://dsail.kaist.ac.kr/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       url: "https://www.facebook.com/lee.namkyeong.56/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Namkyeong"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
