@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Namkyeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am currently studying **Recommender System** at KAIST"
+  bio              : "I am currently studying **Recommender System & Graph Neural Network**"
   location         : "Daejeon, Republic of Korea"
   email            : "namkyeong96@naver.com"
   links:
