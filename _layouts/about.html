@@ -37,6 +37,12 @@ layout: default
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
+
+          {% if page.sections %}
+            <br>
+            {% include sections.html %}
+          {% endif %}
+          
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
