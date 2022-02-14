@@ -203,8 +203,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Lee
+  first_name: [Namkyeong]
 
   style: apa
   locale: en
