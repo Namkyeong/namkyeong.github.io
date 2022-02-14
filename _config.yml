@@ -105,11 +105,14 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  sections:
-    defaults:
-      layout: post
+  projects:
     output: true
-    permalink: /sections/:path/
+    permalink: /projects/:path/
+  # sections:
+  #   defaults:
+  #     layout: post
+  #   output: true
+  #   permalink: /sections/:path/
 
 news_limit: 5
 
