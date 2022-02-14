@@ -19,7 +19,7 @@ where I am fortunate to be advised by [Prof. Chanyoung Park](http://dsail.kaist.
 
 I'm actively on research with my best colleagues at [Data Science and Artificial Intelligence Lab](http://dsail.kaist.ac.kr/).
 
-My research interest is mainly on anything connected to or can be represented as graphs
-- Self-Supervised Graph Representatinon Learning
+My research interest is mainly on anything connected to or can be represented as graphs!
+- Self-Supervised Graph Representation Learning
 - Graph Neural Networks (GNNs) for Chemistry and Biology
 - General Machine Learning and Data Mining
