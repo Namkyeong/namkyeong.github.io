@@ -34,15 +34,17 @@ layout: default
             {{ content }}
           </div>
 
-          {% if page.news -%}
+          {% if page.news %}
           <!-- News -->
-          {%- include news.html %}
-          {%- endif %}
+            <br>
+            {% include news.html %}
+          {% endif %}
 
-          {% if page.sections -%}
+          {% if page.sections %}
           <!-- sections -->
-          {%- include sections.html %}
-          {%- endif %}
+            <br>
+            {% include sections.html %}
+          {% endif %}
           
           {%- if page.social %}
           <!-- Social -->
