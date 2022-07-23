@@ -20,10 +20,10 @@ where I am fortunate to be advised by [Prof. Chanyoung Park](http://dsail.kaist.
 
 I'm actively on research with my best colleagues at [Data Science and Artificial Intelligence Lab](http://dsail.kaist.ac.kr/).
 
-My goal is to mine useful knowledge from real world data and develop artificial intelligence solutions for various real-world applications across different disciplines.
-Since our world is a set of infinite connectivities, the graph structure is a natural way to express our world.
+Our world is a set of infinite connectivities, *the graph structure is a natural way to express our world*.
+
 My research interest is mainly on **anything connected to or can be represented as graphs!**
-- ``Self-Supervised Graph Representation Learning``
-- ``Graph Neural Networks (GNNs) for Chemistry and Biology``
-- ``Graph Neural Networks (GNNs) for Recommendation``
-- ``General Machine Learning and Data Mining``
+- **Graph Representation Learning**
+- Graph Neural Networks (GNNs) for **Chemistry and Biology**
+- Graph Neural Networks (GNNs) for **Recommendation**
+
