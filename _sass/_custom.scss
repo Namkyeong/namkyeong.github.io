@@ -1,0 +1,13 @@
+// Bib type style
+p.bibtitle {
+	color: var(--global-theme-color);
+    	font-weight: 400;
+    	font-size: 1.5em;
+    	text-align: center;
+    	border-bottom: 1px solid #bbb;
+}
+
+// Title font
+.publications ol.bibliography li .title {
+    font-weight: bold;
+}
