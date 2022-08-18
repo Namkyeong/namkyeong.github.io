@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 use_custom_favicon: true
-icon: dsail.png # the emoji used as the favicon
+icon: /assets/img/dsail.ico # the emoji used as the favicon
 use_custom_favicon: true # if this is true, you can set favicon path instead of using default emoji
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
