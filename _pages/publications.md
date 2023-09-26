@@ -6,10 +6,10 @@ description: All the publications that I have done or collaborated with.
 sections:
   - bibquery: "@inproceedings"
     text: "International Conferences"
-  - bibquery: "@workshops"
-    text: "Workshop Papers"
   - bibquery: "@article"
     text: "International Journals"
+  - bibquery: "@workshops"
+    text: "Workshop Papers"
 years: [2023, 2022]
 nav: true
 ---
