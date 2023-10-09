@@ -22,11 +22,15 @@ layout: default
               class="img-fluid z-dept-1 rounded"
               alt=page.profile.image -%}
             {% endif -%}
-            {%- if page.profile.address %}
             {%- if page.profile.caption %}
+            <div class="caption">
+              {{ page.profile.caption }}
+            </div>
+            {%- endif %}
+            {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
-            </div>
+            </div>            
             {%- endif %}
           </div>
           {%- endif %}
