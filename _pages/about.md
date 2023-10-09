@@ -8,7 +8,7 @@ profile:
   align: right
   image: namkyeonglee.jpg
   caption: >
-    <p>Hello, my name is Louis, third year Bichon Frise! I'm the first dog of AFGRL.</p>
+    <p>''Hi, my name is Louis, third year Bichon Frise! I'm the first dog of AFGRL.''</p>
 
 news: true  # includes a list of news items
 sections: true
