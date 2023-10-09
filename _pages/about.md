@@ -6,7 +6,7 @@ subtitle: Ph.D. student in Machine Learning
 
 profile:
   align: right
-  image: namkyeonglee.jpg
+  image: namkyeonglee.jpeg
   caption: >
     <p>''Hi, my name is Louis, third year Bichon Frise! I'm the first dog of AFGRL.''</p>
 
