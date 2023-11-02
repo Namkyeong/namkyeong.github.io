@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: All the publications that I have done or collaborated with.
+description: All the publications that I have done or collaborated with. (†:Equal contribution)
 sections:
   - bibquery: "@inproceedings"
     text: "International Conferences"
