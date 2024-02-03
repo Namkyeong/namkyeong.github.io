@@ -26,6 +26,7 @@ I'm also currently working as a visiting scholar at UIUC, under the guidance of 
 Nowadays, AI is revolutionizing practices across multiple domains. 
 My interest lies in leveraging AI's potential to assimilate and utilize the vast expanse of human knowledge in different scientific disciplines, particularly in the areas of materials science and biochemistry.
 
+My research topics of interest include, but are not limited to, the following:
 - Graph Neural Networks (GNNs) for scientific discovery
 - Multi-modal Learning for scientific discovery
 - Graph Representation Learning (Self- / Semi-Supervised Learning on Graphs)
