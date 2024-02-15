@@ -21,7 +21,7 @@ I'm a Ph.D. student in the Industrial and Systems Department at KAIST,
 where I am fortunate to be advised by [Prof. Chanyoung Park](http://dsail.kaist.ac.kr/professor/).
 I'm actively on research with my best colleagues at [Data Science and Artificial Intelligence Lab](http://dsail.kaist.ac.kr/).
 
-I'm also currently working as a visiting scholar at UIUC, under the guidance of [Prof. Jimeng Sun](https://cs.illinois.edu/about/people/faculty/jimeng).
+I'm also currently working as a visiting scholar at UIUC, under the guidance of [Prof. Jimeng Sun](http://cs.illinois.edu/about/people/faculty/jimeng).
 
 Nowadays, AI is revolutionizing practices across multiple domains. 
 My interest lies in leveraging AI's potential to assimilate and utilize the vast expanse of human knowledge in different scientific disciplines, particularly in the areas of materials science and biochemistry.
