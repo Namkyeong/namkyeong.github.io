@@ -24,7 +24,7 @@ I'm actively on research with my best colleagues at [Data Science and Artificial
 During my doctoral studies, I served as a research intern at Naver Corporation and as a visiting scholar at the University of Illinois at Urbana-Champaign, under the guidance of [Prof. Jimeng Sun](http://cs.illinois.edu/about/people/faculty/jimeng).
 
 Nowadays, AI is revolutionizing practices across multiple domains. 
-My interest lies in leveraging AI's potential to assimilate and utilize the vast expanse of human knowledge in different scientific disciplines, particularly in the areas of materials science and biochemistry.
+My interest lies in leveraging AI's potential to assimilate and utilize the vast expanse of human knowledge in different scientific disciplines, particularly in the areas of biology, chemistry, and more, ultimately benefiting human society.
 
 My research topics of interest include, but are not limited to, the following:
 - Graph Neural Networks (GNNs) for scientific discovery
