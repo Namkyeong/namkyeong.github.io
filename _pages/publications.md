@@ -12,7 +12,7 @@ sections:
     years: [2023, 2022]
   - bibquery: "@workshops"
     text: "Workshop Papers"
-    years: [2024, 2023, 2022]
+    years: [2024, 2023]
 nav: true
 ---
 <!-- _pages/publications.md -->
