@@ -38,7 +38,7 @@ nav: true
     {% capture query %}
       {% bibliography -f papers -q "{{ section.bibquery }}[year={{ y }}]" %}
     {% endcapture %}
-    {% if query contains '<div' %}
+    {% if query contains '<div>' %}
       <h2 class="year">{{ y }}</h2>
       {{ query }}
     {% endif %}
