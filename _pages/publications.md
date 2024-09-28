@@ -4,15 +4,16 @@ permalink: /publications/
 title: Publications
 description: All the publications that I have done or collaborated with. (†:Equal contribution)
 sections:
+  - bibquery: "@preprints"
+    text: "Preprints"
+    years: [2024, 2023]
   - bibquery: "@inproceedings"
     text: "International Conferences"
     years: [2024, 2023, 2022]
   - bibquery: "@article"
     text: "International Journals"
     years: [2023, 2022]
-  - bibquery: "@workshops"
-    text: "Workshop Papers"
-    years: [2024, 2023]
+  
 nav: true
 ---
 <!-- _pages/publications.md -->
