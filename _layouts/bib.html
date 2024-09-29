@@ -118,6 +118,10 @@
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif entry.type == "workshops" -%}
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+        {%- elsif entry.type == "preprints" -%}
+          {%- capture entrytype -%}<em>Under Review</em> {%- endcapture -%}
+        {%- elsif proceedings contains entry.type -%}
+          {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
           {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
         {%- else -%}
