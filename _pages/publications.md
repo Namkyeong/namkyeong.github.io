@@ -6,10 +6,10 @@ description: All the publications that I have done or collaborated with. (†:Eq
 sections:
   - bibquery: "@preprints"
     text: "Preprints"
-    years: [2024]
+    years: [2025]
   - bibquery: "@inproceedings"
     text: "International Conferences"
-    years: [2024, 2023, 2022]
+    years: [2025, 2024, 2023, 2022]
   - bibquery: "@article"
     text: "International Journals"
     years: [2023, 2022]
